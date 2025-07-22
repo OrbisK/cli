@@ -1,6 +1,6 @@
 # Nuxt CLI (nuxi)
 
-⚡️ [Nuxt](https://nuxt.com/) Generation CLI Experience.
+⚡️ [Nuxt](https://nuxt.com/){:target="_blank"} Generation CLI Experience.
 
 ## Commands
 
